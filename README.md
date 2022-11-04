@@ -1,1 +1,1 @@
-# basic-framework
+# mentoring-simple-webpack-starter
